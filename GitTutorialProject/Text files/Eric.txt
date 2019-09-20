@@ -1,1 +1,13 @@
 Here is a text file.
+
+
+<<<<<<< HEAD
+
+More text.
+=======
+Eric is really cool
+
+Updating....
+
+
+>>>>>>> 0e23c4059af6cad5314db0d1f545e50cb9e84dbd
